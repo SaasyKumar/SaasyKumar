@@ -1,5 +1,16 @@
-## Hi there 👋
+## Hi there! I'm Sasikumar 👋
+💻 Developer
+📚 Learner
 
+## About me
+
+## Skills
+- languages: JavaScript, TypeScript
+- Frontend: React, HTML, CSS
+- Backend: Node.js
+- Tools: Git
+
+# Projects
 <!--
 **SaasyKumar/SaasyKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
