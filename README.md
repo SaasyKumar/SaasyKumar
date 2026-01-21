@@ -1,16 +1,22 @@
 ## Hi there! I'm Sasikumar 👋
 💻 Developer
 📚 Learner
+✍🏼 Inconsistent Blogger
+💡 Curiosity
 
 ## About me
+I'm an Electronics and Communication Engineer working in IT sector😂 .
+Worked as Front End Developer in an MNC for 2 and a half years.
+More **Developer and Engineer** that any other designation and roles.
 
 ## Skills
 - languages: JavaScript, TypeScript
-- Frontend: React, HTML, CSS
-- Backend: Node.js
+- Frontend: React, HTML, CSS, Webpack
 - Tools: Git
 
 # Projects
+As usual developer repo most of them are used while learning certain tech stack.
+My favourite project among them is [Aglet](https://github.com/SaasyKumar/Aglet) - an quiz project that uses md files to store quiz.
 <!--
 **SaasyKumar/SaasyKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
