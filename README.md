@@ -15,7 +15,7 @@ More **Developer and Engineer** that any other designation and roles.
 - Tools: Git
 
 # Projects
-As usual developer repo most of them are used while learning certain tech stack.
+As usual developer repos, most of them are used while learning certain tech stack.
 My favourite project among them is [Aglet](https://github.com/SaasyKumar/Aglet) - an quiz project that uses md files to store quiz.
 <!--
 **SaasyKumar/SaasyKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
