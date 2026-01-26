@@ -5,7 +5,7 @@
 💡 Curiosity
 
 ## About me
-I'm an Electronics and Communication Engineer working in IT sector😂 .
+I'm an Electronics and Communication Engineer but working in IT Domain .
 Worked as Front End Developer in an MNC for 2 and a half years.
 More **Developer and Engineer** that any other designation and roles.
 
