@@ -13,9 +13,6 @@ I'm an Electronics and Communication Engineer, curently working in IT Domain .
 - Tools: Git
 - Services: Amazon Bedrock
 
-# Projects
-As usual developer repos, most of them are used while learning certain tech stack.
-My favourite project among them is [Aglet](https://github.com/SaasyKumar/Aglet) - an quiz project that uses md files to store quiz.
 <!--
 **SaasyKumar/SaasyKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
