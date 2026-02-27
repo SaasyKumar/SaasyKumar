@@ -11,6 +11,7 @@ I'm an Electronics and Communication Engineer, curently working in IT Domain .
 - languages: JavaScript, TypeScript
 - Frontend: React, HTML, CSS, Webpack
 - Tools: Git
+- Services: Amazon Bedrock
 
 # Projects
 As usual developer repos, most of them are used while learning certain tech stack.
